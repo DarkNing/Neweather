@@ -22,7 +22,7 @@ public class Province extends DataSupport{
         return provinceName;
     }
 
-    public void setProvinceName(String provinceName) {
+    public  void setProvinceName(String provinceName) {
         this.provinceName = provinceName;
     }
 

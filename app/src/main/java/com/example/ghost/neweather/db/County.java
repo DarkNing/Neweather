@@ -24,7 +24,7 @@ public class County extends DataSupport{
         return countyName;
     }
 
-    public void setCountyName(String countyName) {
+    public  void setCountyName(String countyName) {
         this.countyName = countyName;
     }
 
